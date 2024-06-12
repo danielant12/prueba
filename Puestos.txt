@@ -1,0 +1,3 @@
+6              RayosX         Juan           Enfermero      5000           
+2              Terapia        Alex           Enfermero      5000           
+3              Emergencia     Lucas          Doctor         25000          
